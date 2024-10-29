@@ -1,6 +1,7 @@
 # Justen Cate's Data Analyst Portfolio
 
-#Bio
+# Bio
+
 Data detective on a mission! 🔍 Turning numbers into narratives. Passionate about finding patterns and driving decisions through data storytelling.
 
 # [U.S Stock Market](https://github.com/MrJCate/USStockMarket)
