@@ -16,17 +16,13 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** This project examines the overall U.S. stock market and analyzes the three largest companies by market capitalization over the past 10 years. 
 
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
-
-**Technology:** Tableau
+**Technology:** Excel, Tableau
 
 ### [Gas Price by Country](https://github.com/MrJCate/GasPricesbyCountry)
 
 **Description:** This project analyzes the changing gas prices by country from 2000-2020.
 
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Technology:** Tidyverse 
+**Technology:** R, Tidyverse 
 
 ## Education
 Embry Riddle Aeronatuical University, Bachelor's degree, Unmanned Aircraft Systems, 2017
