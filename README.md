@@ -1,7 +1,7 @@
 # Justen Cate - Data Analyst Portfolio
 
 ## About
-Hi, I'm Justen! I have an background in Aviation and recently I have completed my degree in Information Technology. I have developed a strong foundation and passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analyst as an entry-level data specialist. 
+Hi, I'm Justen! I have developed a strong foundation and passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analyst as an entry-level data specialist. 
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. 
 
@@ -16,3 +16,13 @@ This project examines the overall U.S. stock market and analyzes the three large
 # [Gas Price by Country](https://github.com/MrJCate/GasPricesbyCountry)
 
 This project analyzes the changing gas prices by country from 2000-2020.
+
+## Education
+Embry Riddle Aeronatuical University, Bachelor's degree, Unmanned Aircraft Systems, 2017
+
+## Certificates
+[Google Data Analytics Professional Certificate](https://coursera.org/share/26bca91e3e6dc4027373ea39fe8e1142) (Oct 2024) (Coursera - Google)
+
+## Contact
+- LinkedIn:[@justencate](https://www.linkedin.com/in/justencate/)
+- Email: justencate@gmail.com
