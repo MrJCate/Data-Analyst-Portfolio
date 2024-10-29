@@ -1,9 +1,10 @@
 # Site settings
-title: Great New Blog Title
+title: Justen Cate's Data Analyst Portfolio
 author:
-  name: Evan Will
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+  name: Justen Cate
+  email: justencate@gmail.com
+description: "Data detective on a mission! 🔍 Turning numbers into narratives. Passionate about finding patterns 
+              and driving decisions through data storytelling."
 
 # Build settings
 theme: jekyll-theme-minimal
