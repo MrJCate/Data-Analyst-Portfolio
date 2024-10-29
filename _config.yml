@@ -3,7 +3,7 @@ remote_theme: samarsault/texture
 
 theme: texture
 
-$ gem install texture
+$ bundle
 
 texture:
   title: Adam Denisov
