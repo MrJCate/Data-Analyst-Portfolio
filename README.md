@@ -1,3 +1,5 @@
+# Justen Cate - Data Analyst Portfolio
+
 ## About
 Hi, I'm Justen! I have developed a strong foundation and passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analyst as an entry-level data specialist. 
 
