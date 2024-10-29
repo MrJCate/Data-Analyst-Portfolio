@@ -9,13 +9,24 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
 
-# [U.S Stock Market](https://github.com/MrJCate/USStockMarket)
+## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-This project examines the overall U.S. stock market and analyzes the three largest companies by market capitalization over the past 10 years.
+### [U.S Stock Market](https://github.com/MrJCate/USStockMarket)
 
-# [Gas Price by Country](https://github.com/MrJCate/GasPricesbyCountry)
+**Description:** This project examines the overall U.S. stock market and analyzes the three largest companies by market capitalization over the past 10 years. 
 
-This project analyzes the changing gas prices by country from 2000-2020.
+**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+
+**Technology:** Tableau
+
+### [Gas Price by Country](https://github.com/MrJCate/GasPricesbyCountry)
+
+**Description:** This project analyzes the changing gas prices by country from 2000-2020.
+
+**Skills:** data cleaning, data analysis, data visualization.
+
+**Technology:** Tidyverse 
 
 ## Education
 Embry Riddle Aeronatuical University, Bachelor's degree, Unmanned Aircraft Systems, 2017
