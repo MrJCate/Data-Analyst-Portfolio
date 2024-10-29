@@ -1,10 +1,20 @@
-# Site settings
-title: Justen Cate's Data Analyst Portfolio
-author:
-  name: Justen Cate
-  email: justencate@gmail.com
-description: "Data detective on a mission! 🔍 Turning numbers into narratives. Passionate about finding patterns 
-              and driving decisions through data storytelling."
-
 # Build settings
-theme: jekyll-theme-minimal
+remote_theme: samarsault/texture
+
+theme: texture
+
+$ gem install texture
+
+texture:
+  title: Adam Denisov
+  tagline: Developer. Designer
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: thelehhman
+    github:  thelehhman
+    linkedIn: in/thelehhman # format: locale/username
+
+texture:
+  style: [black]
+
